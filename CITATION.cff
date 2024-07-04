@@ -7,6 +7,9 @@ authors:
 - family-names: "Di Pilato"
   given-names: "Antonio"
   orcid: "https://orcid.org/0000-0002-9233-3632"
+- family-names: "Redjeb"
+  given-names: "Wahid"
+  orcid: "https://orcid.org/0000-0001-9794-8292"
 title: "qlue"
 version: frontiers-paper
 doi: 10.5281/zenodo.12655189
